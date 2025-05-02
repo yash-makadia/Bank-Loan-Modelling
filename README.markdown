@@ -125,16 +125,6 @@ The dataset, sourced from [Kaggle](https://www.kaggle.com/itsmesunil/bank-loan-m
 - `docs/Bank_Loan_Modeling_Final.pdf`: Exported Jupyter Notebook detailing the project methodology and findings.
 - `LICENSE`: GNU General Public License v3.0.
 
-## Skills
-
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
-<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas">
-<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy">
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat" alt="Matplotlib">
-<img src="https://img.shields.io/badge/-Seaborn-1E90FF?logo=python&logoColor=white&style=flat" alt="Seaborn">
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter">
-
 ## Challenges and Lessons Learned
 
 - **Data Imbalance**: The 9.6% loan acceptance rate required careful handling (stratified splitting, evaluating F1-score and ROC AUC).
